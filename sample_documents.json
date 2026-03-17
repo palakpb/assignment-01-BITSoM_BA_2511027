@@ -1,0 +1,43 @@
+[
+  {
+    "product_id": "ELEC-101",
+    "name": "UltraView OLED TV",
+    "category": "Electronics",
+    "price": 85000,
+    "specs": {
+      "display": "65-inch 4K OLED",
+      "refresh_rate": "120Hz",
+      "voltage": "110-240V"
+    },
+    "warranty": {
+      "period_months": 24,
+      "type": "On-site"
+    },
+    "tags": ["4K", "Smart TV", "Home Cinema"]
+  },
+  {
+    "product_id": "CLOTH-502",
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "price": 2500,
+    "attributes": {
+      "size": ["M", "L", "XL"],
+      "color": "Indigo",
+      "material": "98% Cotton, 2% Elastane"
+    },
+    "care_instructions": "Machine wash cold, tumble dry low"
+  },
+  {
+    "product_id": "GROC-909",
+    "name": "Organic Almond Milk",
+    "category": "Groceries",
+    "price": 350,
+    "nutritional_info": {
+      "calories": 30,
+      "fat": "2.5g",
+      "protein": "1g"
+    },
+    "expiry_date": "2024-12-15",
+    "storage": "Refrigerate after opening"
+  }
+]
